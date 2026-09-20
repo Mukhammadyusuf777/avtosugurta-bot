@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "avtosugurta-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "c698c4aa-d651-4b2d-8503-665508a638dd"
 migrations_dir = "migrations"
 
 # Cron trigger for 7-day expiration notification
